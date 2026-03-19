@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 2
-- **Easy:** 1 🟢
+- **Total Problems Solved:** 3
+- **Easy:** 2 🟢
 - **Medium:** 1 🟡
 - **Hard:** 0 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 🟢 Easy | python3 | 2026-03-19 |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | python3 | 2026-03-19 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | python3 | 2026-03-19 |
 
 ---
